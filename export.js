@@ -16,7 +16,7 @@ if (arg === 'save') {
 }
 
 const options = {
-    host: 'bitnodes.earn.com',
+    host: 'bitnodes.io',
     path: '/api/v1/snapshots/latest/',
     headers: { 'User-Agent': 'bitnodes-export' }
 };
